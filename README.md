@@ -8,8 +8,14 @@ With the rapid growth of processing speed in the everyday computer, scientific c
 
 See www.sas.com for more information on SAS<sup>®</sup>-related products, since this repository will focus on the mathematics and is not affiliated with the SAS Institute. The SAS Institute has a few interesting online courses for beginners.
 
-The programs in this repository run on **SAS/IML 15.2** and **SAS 9.4**. <br/>
+The programs in this repository run on **SAS/IML 15.2** and **SAS 9.4**.
 
+## Table of Contents
+
+1 - [Root-finding techniques](#roots)
+2 - [Interpolation techniques for polynomials](#inter)
+
+<a name="roots"></a>
 ## 1 - Root-finding techniques
 
 ### (1.1) The Bisection Method
@@ -25,6 +31,7 @@ The programs in this repository run on **SAS/IML 15.2** and **SAS 9.4**. <br/>
 ### (1.5) Newton's Method in Several Variables
 
 
+<a name="inter"></a>
 ## 2 - Interpolation techniques for polynomials
 
 ### (2.1) Lagrange Interpolating Polynomials
