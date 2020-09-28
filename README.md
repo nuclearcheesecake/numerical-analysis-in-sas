@@ -6,7 +6,7 @@ With the rapid growth of processing speed in the everyday computer, scientific c
   <img width="350p" src="https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/Misc/SAS.png">
 </p>
 
-See the ![link](https://www.sas.com/en_us/home.html) for more information on SAS<sup>®</sup>-related products.
+See the www.sas.com for more information on SAS<sup>®</sup>-related products.
 
 ## 1 - Root-finding techniques
 
