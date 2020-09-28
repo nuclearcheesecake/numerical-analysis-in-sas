@@ -1,2 +1,5 @@
-# numerical-analysis-in-sas
-A collection of programs used for Numerical Analysis (APPM222), coded by myself during the semester.
+### Numerical Analysis in SAS
+
+## 1 - Root-finding techniques
+
+# (1.1) The Bisection Method
