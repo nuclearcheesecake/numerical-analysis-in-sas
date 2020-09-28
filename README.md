@@ -8,7 +8,7 @@ With the rapid growth of processing speed in the everyday computer, scientific c
 
 See www.sas.com for more information on SAS<sup>®</sup>-related products, since this repository will focus on the mathematics and is not affiliated with the SAS Institute. The SAS Institute has a few interesting online courses for beginners.
 
-The programs in this repository run on **SAS/IML 15.2** and **SAS 9.4**.
+The programs in this repository run on **SAS/IML 15.2** and **SAS 9.4**. <br/>
 
 ## 1 - Root-finding techniques
 
