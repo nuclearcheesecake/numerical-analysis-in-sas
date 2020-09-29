@@ -20,23 +20,78 @@ The programs in this repository run on **SAS/IML 15.2** and **SAS 9.4**.
 
 ### (1.1) The Bisection Method
 
-(find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/1%20-%20Root-finding%20techniques/BisectionMethod.sas))
+(find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/1%20-%20Root-finding%20techniques/BisectionMethod.sas)
 
-**How it works** 🔧
-**Finding the root**
-**Error Analysis**
+🔧 **How it works** <br/>
+_Finding the root_<br/>
+Some explanation. <br/>
 
-**Example** 📖
+_Error Analysis_<br/>
+Some explanation. <br/>
 
-**Notes on code** ⌨️
+📖 **Example**
+
+💾 **Notes on code**
 
 ### (1.2) The Newton-Raphson Method
 
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Finding the root_<br/>
+Some explanation. <br/>
+
+_Error Analysis_<br/>
+Some explanation. <br/>
+
+📖 **Example**
+
+💾 **Notes on code**
+
 ### (1.3) The Secant Method
+
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Finding the root_<br/>
+Some explanation. <br/>
+
+_Error Analysis_<br/>
+Some explanation. <br/>
+
+📖 **Example**
+
+💾 **Notes on code**
 
 ### (1.4) Horner's Method
 
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Finding the root_<br/>
+Some explanation. <br/>
+
+_Error Analysis_<br/>
+Some explanation. <br/>
+
+📖 **Example**
+
+💾 **Notes on code**
+
 ### (1.5) Newton's Method in Several Variables
+
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Finding the root_<br/>
+Some explanation. <br/>
+
+_Error Analysis_<br/>
+Some explanation. <br/>
+
+📖 **Example**
+
+💾 **Notes on code**
 
 
 <a name="inter"></a>
