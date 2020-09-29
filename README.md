@@ -20,7 +20,15 @@ The programs in this repository run on **SAS/IML 15.2** and **SAS 9.4**.
 
 ### (1.1) The Bisection Method
 
-(find the code for this section ![here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/1%20-%20Root-finding%20techniques/BisectionMethod.sas))
+(find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/1%20-%20Root-finding%20techniques/BisectionMethod.sas))
+
+**How it works** 🔧
+**Finding the root**
+**Error Analysis**
+
+**Example** 📖
+
+**Notes on code** ⌨️
 
 ### (1.2) The Newton-Raphson Method
 
