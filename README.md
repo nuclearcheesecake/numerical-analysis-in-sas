@@ -50,7 +50,7 @@ Some explanation. <br/>
 
 ### (1.3) The Secant Method
 
-(find the code for this section [here]()
+(find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/1%20-%20Root-finding%20techniques/SecantMethod.sas))
 
 🔧 **How it works** <br/>
 _Finding the root_<br/>
@@ -80,7 +80,7 @@ Some explanation. <br/>
 
 ### (1.5) Newton's Method in Several Variables
 
-(find the code for this section [here]()
+(find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/1%20-%20Root-finding%20techniques/NewtonSystemOfNonlinearEquations.sas))
 
 🔧 **How it works** <br/>
 _Finding the root_<br/>
