@@ -105,8 +105,6 @@ Some explanation. <br/>
 _Creating the polynomial_<br/>
 Some explanation. <br/>
 
-_Error Analysis_<br/>
-Some explanation. <br/>
 
 📖 **Example**
 
@@ -120,8 +118,6 @@ Some explanation. <br/>
 _Creating the polynomial_<br/>
 Some explanation. <br/>
 
-_Error Analysis_<br/>
-Some explanation. <br/>
 
 📖 **Example**
 
