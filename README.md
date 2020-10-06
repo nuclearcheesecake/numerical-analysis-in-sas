@@ -13,7 +13,7 @@ The programs in this repository run on **SAS/IML 15.2** and **SAS 9.4**.
 ## Table of Contents
 
 1. [Root-finding techniques](#roots)
-1.1 [The Bisection Method](#bis)
+  * [The Bisection Method](#bis)
 2. [Interpolation techniques for polynomials](#inter)
 
 <a name="roots"></a>
