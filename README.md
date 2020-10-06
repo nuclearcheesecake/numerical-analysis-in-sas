@@ -14,7 +14,14 @@ The programs in this repository run on **SAS/IML 15.2** and **SAS 9.4**.
 
 1. [Root-finding techniques](#roots)
    - [The Bisection Method](#bis)
+   - [The Newton-Raphson Method](#nera)
+   - [The Secant Method](#secant)
+   - [Horner's Method](#horn)
+   - [Newton's Method in Several Variables](#nese)
+
 2. [Interpolation techniques for polynomials](#inter)
+   - [Lagrange Interpolating Polynomial](#laginter)
+   - [Newton Interpolating Polynomial](#newinter)
 
 <a name="roots"></a>
 ## 1 - Root-finding techniques
@@ -35,6 +42,7 @@ Some explanation. <br/>
 
 💾 **Notes on code**
 
+<a name="nera"></a>
 ### (1.2) The Newton-Raphson Method
 
 (find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/1%20-%20Root-finding%20techniques/NewtonRaphson.sas))
@@ -50,6 +58,7 @@ Some explanation. <br/>
 
 💾 **Notes on code**
 
+<a name="secant"></a>
 ### (1.3) The Secant Method
 
 (find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/1%20-%20Root-finding%20techniques/SecantMethod.sas))
@@ -65,6 +74,7 @@ Some explanation. <br/>
 
 💾 **Notes on code**
 
+<a name="horn"></a>
 ### (1.4) Horner's Method
 
 (find the code for this section [here]()
@@ -80,6 +90,7 @@ Some explanation. <br/>
 
 💾 **Notes on code**
 
+<a name="nese"></a>
 ### (1.5) Newton's Method in Several Variables
 
 (find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/1%20-%20Root-finding%20techniques/NewtonSystemOfNonlinearEquations.sas))
@@ -99,6 +110,7 @@ Some explanation. <br/>
 <a name="inter"></a>
 ## 2 - Interpolation techniques for polynomials
 
+<a name="laginter"></a>
 ### (2.1) Lagrange Interpolating Polynomial
 
 (find the code for this section [here]()
@@ -112,6 +124,7 @@ Some explanation. <br/>
 
 💾 **Notes on code**
 
+<a name="newinter"></a>
 ### (2.2) Newton Interpolating Polynomial
 
 (find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/2%20-%20Interpolation%20techniques%20for%20polynomials/NewtonInterpolatingPolynomial.sas))
