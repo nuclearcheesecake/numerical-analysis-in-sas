@@ -97,6 +97,32 @@ Some explanation. <br/>
 <a name="inter"></a>
 ## 2 - Interpolation techniques for polynomials
 
-### (2.1) Lagrange Interpolating Polynomials
+(find the code for this section [here]()
 
-### (2.2) Newton
+🔧 **How it works** <br/>
+_Finding the root_<br/>
+Some explanation. <br/>
+
+_Error Analysis_<br/>
+Some explanation. <br/>
+
+📖 **Example**
+
+💾 **Notes on code**
+
+### (2.1) Lagrange Interpolating Polynomial
+
+### (2.2) Newton Interpolating Polynomial
+
+(find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/2%20-%20Interpolation%20techniques%20for%20polynomials/NewtonInterpolatingPolynomial.sas))
+
+🔧 **How it works** <br/>
+_Finding the root_<br/>
+Some explanation. <br/>
+
+_Error Analysis_<br/>
+Some explanation. <br/>
+
+📖 **Example**
+
+💾 **Notes on code**
