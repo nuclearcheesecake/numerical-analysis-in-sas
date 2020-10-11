@@ -22,6 +22,8 @@ The programs in this repository run on **SAS/IML 15.2** and **SAS 9.4**.
 2. [Interpolation techniques for polynomials](#inter)
    - [Lagrange Interpolating Polynomial](#laginter)
    - [Newton Interpolating Polynomial](#newinter)
+   - [Linear Splines](#linspin)
+   - [Cubic Splines](#cubspin)
 
 <a name="roots"></a>
 ## 1 - Root-finding techniques
@@ -128,6 +130,34 @@ Some explanation. <br/>
 ### (2.2) Newton Interpolating Polynomial
 
 (find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/2%20-%20Interpolation%20techniques%20for%20polynomials/NewtonInterpolatingPolynomial.sas))
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+<a name="linspin"></a>
+### (2.3)Linear Splines
+
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+<a name="cubspin"></a>
+### (2.4) Cubic Splines
+
+(find the code for this section [here]()
 
 🔧 **How it works** <br/>
 _Creating the polynomial_<br/>
