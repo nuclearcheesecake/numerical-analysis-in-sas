@@ -141,9 +141,9 @@ Some explanation. <br/>
 💾 **Notes on code**
 
 <a name="linspin"></a>
-### (2.3)Linear Splines
+### (2.3) Linear Splines
 
-(find the code for this section [here]()
+(find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/2%20-%20Interpolation%20techniques%20for%20polynomials/LinearSplines.sas))
 
 🔧 **How it works** <br/>
 _Creating the polynomial_<br/>
@@ -157,7 +157,7 @@ Some explanation. <br/>
 <a name="cubspin"></a>
 ### (2.4) Cubic Splines
 
-(find the code for this section [here]()
+(find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/2%20-%20Interpolation%20techniques%20for%20polynomials/CubicSplines.sas))
 
 🔧 **How it works** <br/>
 _Creating the polynomial_<br/>
