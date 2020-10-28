@@ -23,8 +23,26 @@ The programs in this repository run on **SAS/IML 15.2** and **SAS 9.4**.
    - [Lagrange Interpolating Polynomial](#laginter)
    - [Newton Interpolating Polynomial](#newinter)
    - [Linear Splines](#linspin)
+   - [Quadratic Splines](#qspin)
    - [Cubic Splines](#cubspin)
+   
+3. [Numerical Differentiation](#numdiff)
+   - [Lagrange Interpolating Polynomial](#num)
 
+4. [Numerical Integration](#numint)
+   - [The Trapezoidal Rule](#trap)
+   - [Simpson's Method](#sim)
+   - [Gauss-Legendre Integration](#gl)
+   - [Monte-Carlo Integration](#mc)
+   
+5. [Initial Value Problems](#ivp)
+   - [Euler's Method](#em)
+   - [Taylor's Method](#tay)
+   - [Midpoint Method (Runge Kutta)](#midp)
+   - [Modified Euler's Method (Runge Kutta)](#mod)
+   - [Order 4 (Runge Kutta)](#o4)
+   
+   
 <a name="roots"></a>
 ## 1 - Root-finding techniques
 
@@ -154,10 +172,175 @@ Some explanation. <br/>
 
 💾 **Notes on code**
 
+<a name="qspin"></a>
+### (2.4) Quadratic Splines
+
+(find the code for this section [here](
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+
 <a name="cubspin"></a>
-### (2.4) Cubic Splines
+### (2.5) Cubic Splines
 
 (find the code for this section [here](https://github.com/nuclearcheesecake/numerical-analysis-in-sas/blob/master/2%20-%20Interpolation%20techniques%20for%20polynomials/CubicSplines.sas))
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+<a name="numdiff"></a>
+## 3 - Numerical Differentiation
+
+<a name="num"></a>
+### (3.1) ??
+
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+<a name="numint"></a>
+## 4 - Numerical Integration
+
+<a name="trap"></a>
+### (4.1) The Trapezoidal Rule
+
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+<a name="sim"></a>
+### (4.2) Simpson's Method
+
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+<a name="gl"></a>
+### (4.3) Gauss-Legendre Integration
+
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+<a name="mc"></a>
+### (4.4) Monte-Carlo Integration
+
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+<a name="ivp"></a>
+## 5 - Initial Value Problems
+
+<a name="em"></a>
+### (5.1) Euler's Method
+
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+
+<a name="tay"></a>
+### (5.2) Taylor's Method
+
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+<a name="midp"></a>
+### (5.3) Midpoint method (Runge Kutta)
+
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+<a name="mod"></a>
+### (5.4) Modified Euler's Method (Runge Kutta)
+
+(find the code for this section [here]()
+
+🔧 **How it works** <br/>
+_Creating the polynomial_<br/>
+Some explanation. <br/>
+
+
+📖 **Example**
+
+💾 **Notes on code**
+
+<a name="04"></a>
+### (5.5) Order 4 (Runge Kutta)
+
+(find the code for this section [here]()
 
 🔧 **How it works** <br/>
 _Creating the polynomial_<br/>
